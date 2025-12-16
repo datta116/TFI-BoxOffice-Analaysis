@@ -1,0 +1,125 @@
+movie_name,total_WW_cls,hero_name,verdict,day1_WW_Gross_cr,year_of_release
+Eeswar,5.0,Prabhas,Flop,0.5,2002
+Raghavendra,3.0,Prabhas,Flop,0.3,2004
+Varsham,41.8,Prabhas,Blockbuster,5.2,2004
+Adavi Ramudu,35.0,Prabhas,Hit,1.8,2004
+Chatrapathi,55.0,Prabhas,Blockbuster,3.0,2005
+Bujjigadu,35.0,Prabhas,Hit,2.2,2008
+Billa,45.0,Prabhas,Flop,2.5,2009
+Mirchi,86.0,Prabhas,Blockbuster,4.5,2013
+Baahubali: The Beginning,650.0,Prabhas,All Time Blockbuster,72.5,2015
+Baahubali 2: The Conclusion,1810.0,Prabhas,All Time Blockbuster,214.5,2017
+Saaho,435.0,Prabhas,Hit,93.0,2019
+Radhe Shyam,200.0,Prabhas,Disaster,36.0,2022
+Adipurush,393.0,Prabhas,Flop,95.0,2023
+Salaar,650.0,Prabhas,Hit,165.3,2023
+Kalki 2898 AD,1100.0,Prabhas,Blockbuster,182.6,2024
+Darling,38.0,Prabhas,Hit,2.5,2010
+Mr. Perfect,25.0,Prabhas,Hit,1.8,2011
+Gangotri,15.0,Allu Arjun,Average,0.8,2003
+Arya,35.0,Allu Arjun,Super Blockbuster,1.2,2004
+Desamuduru,30.0,Allu Arjun,Super Hit,1.5,2007
+Happy,16.7,Allu Arjun,Below Average,0.7,2006
+Bunny,45.0,Allu Arjun,Hit,2.0,2005
+Arya 2,50.0,Allu Arjun,Hit,2.5,2009
+Vedam,30.0,Allu Arjun,Average,1.2,2010
+Badrinath,45.0,Allu Arjun,Average,3.0,2011
+Julayi,85.0,Allu Arjun,Blockbuster,15.0,2012
+Race Gurram,135.0,Allu Arjun,Blockbuster,6.3,2014
+S/O Satyamurthy,95.0,Allu Arjun,Hit,10.5,2015
+Sarrainodu,130.0,Allu Arjun,Blockbuster,18.0,2016
+Duvvada Jagannadham,145.0,Allu Arjun,Hit,33.0,2017
+Naa Peru Surya,105.0,Allu Arjun,Flop,28.5,2018
+Ala Vaikunthapurramuloo,280.0,Allu Arjun,Blockbuster,20.0,2020
+Pushpa: The Rise,390.0,Allu Arjun,Blockbuster,71.0,2021
+Pushpa 2: The Rule,1755.0,Allu Arjun,Blockbuster,270.0,2024
+Parugu,25.0,Allu Arjun,Hit,1.5,2008
+Rudhramadevi,70.0,Allu Arjun,Average,2.5,2015
+Chirutha,45.0,Ram Charan,Super Hit,2.5,2007
+Magadheera,150.0,Ram Charan,All Time Blockbuster,6.5,2009
+Orange,33.1,Ram Charan,Flop,1.5,2010
+Leader,40.0,Ram Charan,Average,2.0,2010
+Racha,128.5,Ram Charan,Blockbuster,5.5,2012
+Naayak,95.0,Ram Charan,Blockbuster,18.5,2013
+Zanjeer,30.0,Ram Charan,Flop,1.2,2013
+Yevadu,85.0,Ram Charan,Super Hit,13.5,2014
+Govindudu Andarivadele,65.0,Ram Charan,Super Hit,9.5,2014
+Dhruva,110.0,Ram Charan,Super Hit,18.5,2016
+Rangasthalam,216.0,Ram Charan,Blockbuster,46.5,2018
+Vinaya Vidheya Rama,95.0,Ram Charan,Flop,28.5,2019
+Acharya,80.0,Ram Charan,Disaster,18.5,2022
+RRR,1291.0,Ram Charan,All Time Blockbuster,223.0,2022
+Bruce Lee,80.0,Ram Charan,Average,12.5,2015
+Toofaan,40.0,Ram Charan,Flop,2.0,2021
+Game Changer,191.0,Ram Charan,Average,186.0,2024
+Student No: 1,20.0,Jr NTR,Super Blockbuster,1.0,2001
+Subbu,10.0,Jr NTR,Average,0.5,2001
+Ninnu Choodalani,15.25,Jr NTR,Average,0.8,2002
+Aadi,30.0,Jr NTR,Super Blockbuster,1.5,2002
+Santosham,35.0,Jr NTR,Blockbuster,1.8,2002
+Simhadri,55.0,Jr NTR,Blockbuster,2.5,2003
+Kadha Parthu,10.0,Jr NTR,Average,0.5,2004
+Shivamani,25.0,Jr NTR,Average,1.0,2004
+Malik Ram,20.0,Jr NTR,Average,1.0,2005
+Andhrudu,25.0,Jr NTR,Average,1.5,2005
+Rakhi,40.0,Jr NTR,Hit,2.0,2006
+Ashok,30.0,Jr NTR,Flop,1.5,2006
+Yamadonga,60.0,Jr NTR,Blockbuster,3.0,2007
+Kantri,45.0,Jr NTR,Average,2.5,2008
+Adhurs,55.0,Jr NTR,Hit,3.0,2009
+Brindavanam,65.0,Jr NTR,Blockbuster,4.0,2010
+Shakti,50.0,Jr NTR,Disaster,3.5,2011
+Oosaravelli,45.0,Jr NTR,Average,2.5,2011
+Dammu,50.0,Jr NTR,Hit,3.0,2012
+Janatha Garage,135.0,Jr NTR,Blockbuster,24.0,2016
+Temper,75.0,Jr NTR,Blockbuster,14.5,2015
+Nannaku Prematho,100.0,Jr NTR,Hit,18.5,2016
+Jai Lava Kusa,135.0,Jr NTR,Hit,38.0,2017
+Aravinda Sametha,160.0,Jr NTR,Blockbuster,38.0,2018
+RRR,1232.0,Jr NTR,All Time Blockbuster,223.0,2022
+Devara,510.0,Jr NTR,Hit,180.0,2024
+Baadshah,65.0,Jr NTR,Hit,10.5,2013
+Ramayya Vastavayya,55.0,Jr NTR,Flop,11.5,2013
+Evaru Meelo Koteeswarudu,50.0,Jr NTR,Hit,2.5,2013
+Rajakumarudu,18.0,Mahesh Babu,Super Blockbuster,1.0,1999
+Yuvaraju,15.0,Mahesh Babu,Hit,0.8,2000
+Vamsi,10.0,Mahesh Babu,Flop,0.5,2000
+Okkadu,47.0,Mahesh Babu,All Time Blockbuster,2.5,2003
+Nijam,15.0,Mahesh Babu,Disaster,0.8,2003
+Neeku Nenu Naku Nuvvu,20.0,Mahesh Babu,Hit,1.0,2003
+Tagore,25.0,Mahesh Babu,Blockbuster,1.2,2003
+Athadu,40.0,Mahesh Babu,Super Hit,2.0,2005
+Pokiri,75.0,Mahesh Babu,All Time Blockbuster,4.0,2006
+Sainikudu,20.0,Mahesh Babu,Disaster,1.0,2006
+Dhookudu,101.0,Mahesh Babu,Blockbuster,12.5,2011
+Businessman,80.0,Mahesh Babu,Blockbuster,13.5,2012
+Seethamma Vakitlo Sirimalle Chettu,95.0,Mahesh Babu,Blockbuster,10.5,2013
+1 Nenokkadine,30.0,Mahesh Babu,Flop,10.0,2014
+Aagadu,70.0,Mahesh Babu,Flop,10.0,2014
+Srimanthudu,150.0,Mahesh Babu,Blockbuster,14.5,2015
+Bharat Ane Nenu,225.0,Mahesh Babu,Blockbuster,42.0,2018
+Maharshi,188.0,Mahesh Babu,Super Hit,24.5,2019
+Sarileru Neekevvaru,260.0,Mahesh Babu,Blockbuster,45.0,2020
+Sarkaru Vaari Paata,230.0,Mahesh Babu,Hit,52.0,2022
+Guntur Kaaram,181.0,Mahesh Babu,Average,41.0,2024
+Spyder,130.0,Mahesh Babu,Disaster,15.0,2017
+Akkada Ammayi Ikkada Abbayi,7.15,Pawan Kalyan,Hit,0.4,1996
+Tholi Prema,15.0,Pawan Kalyan,Super Blockbuster,0.8,1998
+Thammudu,18.0,Pawan Kalyan,Super Blockbuster,0.9,1999
+Badri,25.0,Pawan Kalyan,Blockbuster,1.2,2000
+Kushi,40.0,Pawan Kalyan,Blockbuster,2.0,2001
+Johnny,30.0,Pawan Kalyan,Flop,1.5,2003
+Gudumba Shankar,30.0,Pawan Kalyan,Flop,1.5,2004
+Balu ABCDEFG,35.0,Pawan Kalyan,Hit,1.8,2005
+Bangaram,25.0,Pawan Kalyan,Flop,1.2,2006
+Annavaram,40.0,Pawan Kalyan,Hit,2.0,2006
+Shankar Dada MBBS,25.0,Pawan Kalyan,Hit,1.2,2004
+Katamarayudu,105.0,Pawan Kalyan,Average,42.0,2017
+Agnyaathavaasi,95.0,Pawan Kalyan,Disaster,42.0,2018
+Vakeel Saab,137.0,Pawan Kalyan,Hit,38.0,2021
+Bheemla Nayak,193.0,Pawan Kalyan,Blockbuster,37.0,2022
+They Call Him OG,295.0,Pawan Kalyan,Hit,155.0,2025
+Attarintiki Daredi,185.0,Pawan Kalyan,All Time Blockbuster,10.0,2013
+Gabbar Singh,150.0,Pawan Kalyan,Blockbuster,14.0,2012
+Cameraman Gangatho Rambabu,45.0,Pawan Kalyan,Average,2.5,2012
+Teen Maar,35.0,Pawan Kalyan,Flop,1.8,2011
