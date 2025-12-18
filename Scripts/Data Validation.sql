@@ -5,6 +5,7 @@
 ------------------------------------------------------------
 -- 0. DATA INTEGRITY & NULL CHECKS (Perform these first)
 ------------------------------------------------------------
+use MyDatabase
 SELECT 
     -- Logical Check: Day 1 should not exceed Total Collection
     SUM(CASE WHEN day1_WW_Gross_cr > total_WW_cls THEN 1 ELSE 0 END) AS logic_error_day1_gt_total,
