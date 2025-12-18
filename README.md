@@ -7,8 +7,7 @@ A complete end-to-end data analytics pipeline that scrapes, cleans, validates, a
 ## 📊 Dashboard Preview
 *The dashboard features deep dives into Hero-wise performance, Year-over-Year trends, and Opening Day records.*
 
-[![TFI Analysis Dashboard](dashboard_preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMmJlYjRkOTUtM2UwMi00MDk3LWIzOTgtYzlhOWM0MmJhMGVkIiwidCI6IjEwZDg5ZTg1LWM2MTEtNDk5MS04YmNiLTJiYzM0MjFlMDYwZCJ9)
-
+[![TFI Analysis Dashboard](https://github.com/datta116/TFI-BoxOffice-Analaysis/blob/f910c17895d4f98c15919583c0706fa1c5501745/Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiMmJlYjRkOTUtM2UwMi00MDk3LWIzOTgtYzlhOWM0MmJhMGVkIiwidCI6IjEwZDg5ZTg1LWM2MTEtNDk5MS04YmNiLTJiYzM0MjFlMDYwZCJ9)
 > **[🚀 View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmJlYjRkOTUtM2UwMi00MDk3LWIzOTgtYzlhOWM0MmJhMGVkIiwidCI6IjEwZDg5ZTg1LWM2MTEtNDk5MS04YmNiLTJiYzM0MjFlMDYwZCJ9)**
 
 ---
